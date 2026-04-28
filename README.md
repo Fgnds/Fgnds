@@ -1,16 +1,6 @@
 Hi 👋 My name is Felipe Fagundes
 ================================
 
-Newbie in JavaScript
---------------------
-
-but with experience in sales and financial market.
-
-*   🌍  I'm based in Florianópolis - SC 🇧🇷
-*   ✉️  You can contact me at [felipefgnds@gmail.com](mailto:felipefgnds@gmail.com)
-*   🚀  I'm currently working on [Mercado de Insumos](http://www.mercadodeinsumos.com.br)
-*   🧠  I'm learning JavaScript
-*   🤝  I'm open to collaborating on Financial Projects / Cryptos are my preference
 
 <a href="https://www.github.com/Fgnds" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/Fgnds?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills<p align="left">
