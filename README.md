@@ -44,3 +44,5 @@ Se você busca um profissional que entende de metas, faturamento e clientes, e q
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/felipe-fgnds)
 * ✉️ [E-mail](felipefgnds@gmail.com)
+* [![WhatsApp](https://shields.io)](https://wa.me/5548991415570)
+
