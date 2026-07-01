@@ -22,12 +22,12 @@ Atuo na fronteira da tecnologia utilizando agentes avançados de IA (como *Claud
 ---
 
 ### 🏆 Projeto em Destaque: Sistema ERP Modular (Full Stack & PWA)
-Desenvolvi de forma totalmente autônoma um **ERP modular completo** que já está operacional no mercado. O projeto foi concebido para resolver dores reais de gestão empresarial.
+Desenvolvi de forma totalmente autônoma um **ERP modular completo** que já está operacional no mercado. O projeto foi concebido para resolver dores reais de gestão empresarial. [Zeniqapp](https://www.zeniqapp.com/)
 * **Front-end moderno** componentizado em React e otimizado com Vite.
 * **Arquitetura PWA** para garantir funcionamento híbrido e portátil (Web e Mobile) sem fricção.
 * **Banco SQL** modelado do zero para garantir consistência em dados críticos de fluxo de caixa e estoque.
 * **Metodologia:** Ciclo de desenvolvimento (SDLC) acelerado via engenharia de contexto em agentes de IA, com auditoria manual de performance.
-[Zeniqapp](https://www.zeniqapp.com/)
+
 
 ---
 
