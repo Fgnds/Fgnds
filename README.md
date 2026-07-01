@@ -31,7 +31,12 @@ Desenvolvi de forma totalmente autônoma um **ERP modular completo** que já est
 
 ---
 
-[![Felipe Fagundes](https://github-readme-stats.vercel.app/api?username=fgnds)](https://github.com/fgnds/github-readme-stats)
+<a href="https://github.com/Fgnds/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fgnds&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/Fgnds/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fgnds&repo=convoychat" />
+</a>
 
 ---
 
