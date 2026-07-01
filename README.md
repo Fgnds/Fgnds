@@ -31,12 +31,12 @@ Desenvolvi de forma totalmente autônoma um **ERP modular completo** que já est
 
 ---
 
-<a href="https://github.com/Fgnds/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fgnds&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/Fgnds/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fgnds&repo=convoychat" />
-</a>
+---
+
+### 📊 Minha Atividade no GitHub
+<p align="left">
+  <img src="https://herokuapp.com" alt="Ritmo de Código" />
+</p>
 
 ---
 
