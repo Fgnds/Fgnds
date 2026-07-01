@@ -34,10 +34,14 @@ Desenvolvi de forma totalmente autônoma um **ERP modular completo** que já est
 ---
 
 ### 📊 Minha Atividade no GitHub
+
 <p align="left">
-  <img src="https://herokuapp.com" alt="Ritmo de Código" />
+  <img src="https://streak-stats.demolab.com?user=Fgnds&theme=tokyonight&hide_border=true" alt="Ritmo de Código" />
 </p>
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fgnds&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas" />
+</p>
 ---
 
 ### 🤝 Vamos nos conectar?
