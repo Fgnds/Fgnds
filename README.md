@@ -1,35 +1,40 @@
-# Olá, eu sou um Product Builder & AI-Driven Developer! 👋
+[README.md](https://github.com/user-attachments/files/29540901/README.md)
+# Olá, eu sou o Felipe — Product Builder & Engenheiro de Produto 👋
 
-Seja bem-vindo ao meu ecossistema de desenvolvimento. Unindo **15 anos de experiência estratégica** em gestão comercial B2B, operações e marketing com a vanguarda do **AI-Driven Development**, busco construir produtos digitais completos e focados em gerar resultados a negócios.
+Desenvolvo e **opero SaaS em produção**, do banco ao deploy, usando IA como alavanca de produtividade.
 
-Atuo na fronteira da tecnologia utilizando agentes avançados de IA (como *Claude Code*, *Cursor*, etc) e plataformas Vibe/Low/No-Code como alavancas de produtividade para conceber, arquitetar e escalar softwares em tempo recorde.
-
----
-
-### 🚀 O que eu faço?
-* **Arquitetura & Engenharia de Produto:** Tradução de regras complexas de negócios (comercial, financeiro, estoque) em sistemas funcionais.
-* **Desenvolvimento Orientado à IA (AI-Driven):** Orquestração e engenharia de contexto para agentes de IA gerarem códigos limpos, seguros e escaláveis.
-* **Validação Humana:** Modelagem de dados, segurança lógica, testes estruturados e revisão crítica de código gerado.
-* **Visão de Negócios (UX/Growth):** Interfaces pensadas na usabilidade do usuário real e na conversão, derivadas da minha pós-graduação em Marketing.
+Uno **15 anos de experiência estratégica** em gestão comercial B2B, operações e marketing com a capacidade técnica de **arquitetar, construir e manter software real**. Uso agentes de IA (*Claude Code*, *Cursor*) para acelerar o ciclo de desenvolvimento — mas a modelagem de dados, a segurança lógica e a revisão crítica do código são minhas.
 
 ---
 
-### 🛠️ Stack Tecnológica & Ferramentas
-* **Front-end / Mobile:** React, Vite, PWA (Progressive Web Apps), JavaScript, HTML5, CSS3
-* **Back-end & Dados:** SQL, Modelagem de Bancos de Dados Relacionais, Integrações de APIs
-* **Ecossistema de IA & Automação:** Claude Code, Cursor IDE, Ferramentas Vibe/Low/No-Code (N8N, Make, Zapier)
+### 🚀 O que eu faço
+
+* **Arquitetura & Engenharia de Produto:** traduzo regras complexas de negócio (comercial, financeiro, estoque, billing) em sistemas funcionais, seguros e escaláveis.
+* **Full Stack na prática:** do schema Postgres com RLS e triggers até a interface React em produção — end to end, sem terceirizar a parte difícil.
+* **Desenvolvimento acelerado por IA + engenharia de contexto:** orquestro agentes de IA e mantenho um sistema de continuidade de contexto para gerar código limpo com consistência entre sessões.
+* **Auditoria e validação humana:** modelagem de dados, segurança, testes estruturados e revisão crítica de tudo que a IA gera antes de ir para produção.
+* **Visão de negócio (UX/Growth):** interfaces pensadas na usabilidade real e na conversão, derivadas da minha pós-graduação em Marketing.
 
 ---
 
-### 🏆 Projeto em Destaque: Sistema ERP Modular (Full Stack & PWA)
-Desenvolvi de forma totalmente autônoma um **ERP modular completo** que já está operacional no mercado. O projeto foi concebido para resolver dores reais de gestão empresarial. [Zeniqapp](https://www.zeniqapp.com/)
-* **Front-end moderno** componentizado em React e otimizado com Vite.
-* **Arquitetura PWA** para garantir funcionamento híbrido e portátil (Web e Mobile) sem fricção.
-* **Banco SQL** modelado do zero para garantir consistência em dados críticos de fluxo de caixa e estoque.
-* **Metodologia:** Ciclo de desenvolvimento (SDLC) acelerado via engenharia de contexto em agentes de IA, com auditoria manual de performance.
+### 🛠️ Stack & Ferramentas
 
+* **Front-end / Mobile:** React 18, TypeScript, Vite, PWA, shadcn/ui, Tailwind CSS
+* **Back-end & Dados:** Supabase (Postgres, Auth, Storage, Realtime), **RLS**, triggers, RPCs `SECURITY DEFINER`, jobs agendados com **pg_cron**, modelagem relacional, integrações de API
+* **Pagamentos:** integração de billing recorrente (Asaas) via Edge Functions, com tratamento de idempotência
+* **IA & Automação:** Claude Code, Cursor IDE, engenharia de contexto para agentes; N8N, Make, Zapier
 
 ---
+
+### 🏆 Projeto em Destaque: Zeniq — SaaS de gestão para fisioterapeutas
+
+SaaS vertical **multi-tenant, em produção** no mercado. Concebido e construído por mim, do banco ao deploy, para resolver dores reais de gestão de clínicas e profissionais autônomos. → **[zeniqapp.com](https://www.zeniqapp.com/)**
+
+* **Front-end moderno:** React 18 + TypeScript, componentizado, otimizado com Vite, arquitetura **PWA** para funcionamento híbrido (Web e Mobile) sem fricção.
+* **Back-end robusto:** Supabase (Postgres) modelado do zero, com **RLS**, triggers e RPCs para garantir consistência em dados críticos de fluxo de caixa e estoque.
+* **Billing recorrente:** cobrança por assinatura integrada (Asaas via Edge Functions), com **idempotência** e rollback em falha de cobrança.
+* **Motor de insights determinístico:** dashboard com geração de insights por regras, ordenação por prioridade e gating por plano.
+* **Metodologia:** ciclo de desenvolvimento (SDLC) acelerado via engenharia de contexto em agentes de IA, com **auditoria manual de schema, segurança e performance**.
 
 ---
 
@@ -43,8 +48,8 @@ Desenvolvi de forma totalmente autônoma um **ERP modular completo** que já est
 
 ### 🤝 Vamos nos conectar?
 
-Se você busca um profissional que entende de negócios e tem a capacidade técnica de construir a ferramenta para fazer isso acontecer com velocidade, entre em contato:
+Se você busca um profissional que entende de negócio e tem a capacidade técnica de construir a ferramenta para fazer isso acontecer com velocidade — entre em contato:
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/felipe-fgnds)
-* ✉️ [E-mail](felipefgnds@gmail.com)
+* ✉️ [E-mail](mailto:felipefgnds@gmail.com)
 * 🟢 [WhatsApp](https://wa.me/5548991415570)
