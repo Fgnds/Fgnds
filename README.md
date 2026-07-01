@@ -42,7 +42,10 @@ Desenvolvi de forma totalmente autônoma um **ERP modular completo** que já est
 ### 🤝 Vamos nos conectar?
 Se você busca um profissional que entende de metas, faturamento e clientes, e que tem a capacidade técnica de construir a ferramenta para fazer isso acontecer com velocidade, entre em contato:
 
+### 🤝 Vamos nos conectar?
+
+Se você busca um profissional que entende de negócios e tem a capacidade técnica de construir a ferramenta para fazer isso acontecer com velocidade, entre em contato:
+
 * 💼 [LinkedIn](https://www.linkedin.com/in/felipe-fgnds)
 * ✉️ [E-mail](felipefgnds@gmail.com)
 * 🟢 [WhatsApp](https://wa.me/5548991415570)
-
