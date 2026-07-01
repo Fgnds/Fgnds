@@ -31,16 +31,9 @@ Desenvolvi de forma totalmente autônoma um **ERP modular completo** que já est
 
 ---
 
-### 📊 Estatísticas do GitHub
-<p align="left">
-  <img src="https://vercel.app" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://vercel.app" alt="Linguagens mais usadas" height="150" />
-</p>
+[![Felipe Fagundes](https://github-readme-stats.vercel.app/api?username=fgnds)](https://github.com/fgnds/github-readme-stats)
 
 ---
-
-### 🤝 Vamos nos conectar?
-Se você busca um profissional que entende de metas, faturamento e clientes, e que tem a capacidade técnica de construir a ferramenta para fazer isso acontecer com velocidade, entre em contato:
 
 ### 🤝 Vamos nos conectar?
 
