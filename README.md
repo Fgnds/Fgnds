@@ -1,17 +1,45 @@
-# 🚀 ERP System - Full Stack & PWA
+# Olá, eu sou um Product Builder & AI-Driven Developer! 👋
 
-Este é um ecossistema ERP completo desenvolvido para solucionar dores reais de gestão empresarial, unindo alta performance e portabilidade.
+Seja bem-vindo ao meu ecossistema de desenvolvimento. Unindo **15 anos de experiência estratégica** em gestão comercial B2B, operações e marketing com a vanguarda do **AI-Driven Development**, eu não apenas digito linhas de código — eu construo produtos digitais completos e focados em gerar resultados de negócios.
 
-## 🛠️ Tecnologias Utilizadas
-- **Front-end:** React, Vite, TailwindCSS
-- **Mobile/Híbrido:** PWA (Progressive Web App)
-- **Banco de Dados:** SQL
+Atuo na fronteira da tecnologia utilizando agentes avançados de IA (como *Claude Code* e *Cursor*) e plataformas Low/No-Code como alavancas de produtividade para conceber, arquitetar e escalar softwares em tempo recorde.
 
-## 🧠 Paradigma de Desenvolvimento: AI-Driven Development
-Este projeto foi concebido utilizando metodologias modernas de desenvolvimento assistido por Inteligência Artificial (utilizando o ecossistema Claude Code). 
+---
 
-### Meu papel como Engenheiro de Produto:
-1. **Arquitetura de Dados:** Desenhei a modelagem do banco SQL e as regras de integridade.
-2. **Engenharia de Contexto:** Instruí os agentes de IA de forma cirúrgica para geração de componentes React limpos e seguros.
-3. **Validação e Debugging:** Atuei na revisão crítica de 100% do código gerado, garantindo segurança contra vulnerabilidades comuns e otimização de queries.
-4. **Visão de Negócio:** Aplicação de conceitos de usabilidade (UX) e jornada do usuário derivada da minha bagagem em Marketing.
+### 🚀 O que eu faço?
+* **Arquitetura & Engenharia de Produto:** Tradução de regras complexas de negócios (comercial, financeiro, estoque) em sistemas funcionais.
+* **Desenvolvimento Orientado à IA (AI-Driven):** Orquestração e engenharia de contexto para agentes de IA gerarem códigos limpos, seguros e escaláveis.
+* **Validação Humana (Os 20% Críticos):** Modelagem de dados, segurança lógica, testes estruturados e revisão crítica de código gerado.
+* **Visão de Negócios (UX/Growth):** Interfaces pensadas na usabilidade do usuário real e na conversão, derivadas da minha pós-graduação em Marketing.
+
+---
+
+### 🛠️ Stack Tecnológica & Ferramentas
+* **Front-end / Mobile:** React, Vite, PWA (Progressive Web Apps), JavaScript, HTML5, CSS3
+* **Back-end & Dados:** SQL, Modelagem de Bancos de Dados Relacionais, Integrações de APIs
+* **Ecossistema de IA & Automação:** Claude Code, Cursor IDE, Ferramentas Low/No-Code (Make, Zapier)
+
+---
+
+### 🏆 Projeto em Destaque: Sistema ERP Modular (Full Stack & PWA)
+Desenvolvi de forma totalmente autônoma um **ERP modular completo** que já está operacional no mercado. O projeto foi concebido para resolver dores reais de gestão empresarial.
+* **Front-end moderno** componentizado em React e otimizado com Vite.
+* **Arquitetura PWA** para garantir funcionamento híbrido e portátil (Web e Mobile) sem fricção.
+* **Banco SQL** modelado do zero para garantir consistência em dados críticos de fluxo de caixa e estoque.
+* **Metodologia:** Ciclo de desenvolvimento (SDLC) acelerado via engenharia de contexto em agentes de IA, com auditoria manual de performance.
+
+---
+
+### 📊 Estatísticas do GitHub
+<p align="left">
+  <img src="https://vercel.app" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://vercel.app" alt="Linguagens mais usadas" height="150" />
+</p>
+
+---
+
+### 🤝 Vamos nos conectar?
+Se você busca um profissional que entende de metas, faturamento e clientes, e que tem a capacidade técnica de construir a ferramenta para fazer isso acontecer com velocidade, entre em contato:
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/felipe-fgnds)
+* ✉️ [E-mail](felipefgnds@gmail.com)
